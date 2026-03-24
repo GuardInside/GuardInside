@@ -1,4 +1,4 @@
-![Hello, I'm Viktor!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF60&width=435&lines=Hello%2C+I'm+Viktor!;C%2B%2B+Developer)
+![Hello, I'm Viktor!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFF60&width=435&lines=Hello%2C+I'm+Viktor!;Software+Engineer)
 
 ## 🛠 Tech Stack
 
